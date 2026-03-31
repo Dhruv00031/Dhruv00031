@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Dhruv+Bharadwaj!;A+passionate+Backend+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Dhruv+Bharadwaj!" alt="Typing SVG" />
 </p>
 
-### A passionate Backend Developer from India 🇮🇳
+###                    A passionate Fullstack Developer from India 🇮🇳
 
 🔭 I'm currently working on **Deep Packet Inspection (DPI) System**  
 🌱 I'm currently learning **System Design, Network Security**  
