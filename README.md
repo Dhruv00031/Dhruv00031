@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhruv Bharadwaj</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Dhruv+Bharadwaj;Full+Stack+MERN+Developer;Node.js+%7C+React.js+%7C+MongoDB;Passionate+about+Backend+Engineering;350%2B+DSA+Problems+Solved" />
+</h1>
 
 ## 🚀 About Me
 
