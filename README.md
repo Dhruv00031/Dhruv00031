@@ -146,9 +146,3 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-```text
-Generate using:
-https://github.com/Platane/snk
