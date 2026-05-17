@@ -1,25 +1,154 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Dhruv+Bharadwaj!" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Dhruv Bharadwaj</h1>
+<h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Deep Packet Inspection (DPI) System**
+- 🌱 I’m currently learning **System Design, Network Security & Advanced MERN Stack**
+- 💬 Ask me about **Node.js, Express.js, React.js, MongoDB, REST APIs, DSA**
+- ⚡ Strong interest in **Backend Engineering & Full Stack Development**
+- 📄 Know about my experiences on my Resume
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:dhruvbharadwaj001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dhruvbharadwaj31">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
-###                    A passionate Fullstack Developer from India 🇮🇳
+---
 
-🔭 I'm currently working on **Deep Packet Inspection (DPI) System**  
-🌱 I'm currently learning **System Design, Network Security**  
-💬 Ask me about **Node.js, Express, Django, REST APIs, DSA...**  
-📄 Know about my experiences on my [**Resume**](https://drive.google.com/file/d/17To_MBjbslMFvVvcb1GUhwD15QOc1Jn8/view?usp=drivesdk)
+# 💻 Tech Stack
 
-## Connect with me
+### 🚀 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,js,python,sql" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dhruvbharadwaj001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvbharadwaj31/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dhruv_Bharadwaj/)
+### 🎨 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
 
-## Languages & Tools
+### ⚙️ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,python,react,tailwind,nodejs,express,django,mongodb,mysql,git,docker,postman)](https://skillicons.dev)
+### 🛢️ Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-## Github Stats
+### 🛠️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Dhruv00031&count_private=true&theme=react&border_radius=10)](https://github.com/Dhruv00031)
-[![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dhruv00031&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)](https://github.com/Dhruv00031)
+---
+
+# 📌 Featured Projects
+
+## 🎟️ Event Booking System
+> Full-stack MERN application for booking and managing events.
+
+### Features:
+- JWT Authentication
+- Role-Based Access Control
+- Event & Booking Management
+- Real-Time Seat Availability
+- Responsive UI
+
+### Tech Stack:
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+---
+
+## 💰 Expense Analytics System
+> MERN-based expense tracker with analytics dashboard.
+
+### Features:
+- Expense Categorization
+- Analytics Dashboard
+- Secure Authentication
+- Transaction Management
+- Financial Insights Visualization
+
+### Tech Stack:
+`React.js` `Node.js` `Express.js` `MongoDB` `Chart.js`
+
+---
+
+## 🛡️ Deep Packet Inspection (DPI) System
+> Network Security project for packet monitoring and anomaly detection.
+
+### Features:
+- Packet Capturing
+- Traffic Analysis
+- Threat Detection
+- Protocol Inspection
+- Suspicious Activity Monitoring
+
+### Tech Stack:
+`Python` `Networking` `Cyber Security`
+
+---
+
+# 🧠 Core Concepts
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST APIs
+- System Design
+
+---
+
+# 🏆 Achievements
+
+- Solved **350+ DSA problems** on LeetCode and coding platforms
+- Strong understanding of:
+  - Arrays
+  - Trees
+  - Graphs
+  - Recursion
+  - Dynamic Programming
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv00031&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv00031&theme=tokyonight" alt="streak stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv00031&layout=compact&theme=tokyonight" alt="top languages"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+```text
+Generate using:
+https://github.com/Platane/snk
