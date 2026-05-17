@@ -1,10 +1,21 @@
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Dhruv Bharadwaj</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Dhruv+Bharadwaj;Full+Stack+MERN+Developer;Node.js+%7C+React.js+%7C+MongoDB;Passionate+about+Backend+Engineering;350%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Engineer;Node.js+React.js+MongoDB;DSA+Enthusiast;Passionate+about+System+Design"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <h3 align="center">
-A Passionate MERN Stack Developer from India 🇮🇳
+  A Passionate MERN Stack Developer from India 🇮🇳
 </h3>
+
+---
 
 ## 🚀 About Me
 
@@ -12,24 +23,25 @@ A Passionate MERN Stack Developer from India 🇮🇳
 - 🌱 I’m currently learning **System Design, Network Security & Advanced MERN Stack**
 - 💬 Ask me about **Node.js, Express.js, React.js, MongoDB, REST APIs, DSA**
 - ⚡ Strong interest in **Backend Engineering & Full Stack Development**
-- 📄 Know about my experiences on my Resume
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="mailto:dhruvbharadwaj001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/dhruvbharadwaj31">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -38,27 +50,27 @@ A Passionate MERN Stack Developer from India 🇮🇳
 
 ### 🚀 Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,js,python,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,sql" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🛢️ Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ---
@@ -66,54 +78,36 @@ A Passionate MERN Stack Developer from India 🇮🇳
 # 📌 Featured Projects
 
 ## 🎟️ Event Booking System
-> Full-stack MERN application for booking and managing events.
+- Built a full-stack MERN application for booking and managing events
+- Implemented JWT Authentication & Role-Based Access Control
+- Added real-time seat availability tracking
 
-### Features:
-- JWT Authentication
-- Role-Based Access Control
-- Event & Booking Management
-- Real-Time Seat Availability
-- Responsive UI
-
-### Tech Stack:
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
 
 ---
 
 ## 💰 Expense Analytics System
-> MERN-based expense tracker with analytics dashboard.
+- Developed a MERN-based expense tracker with analytics dashboard
+- Added expense categorization and visualization features
+- Built secure APIs for transaction management
 
-### Features:
-- Expense Categorization
-- Analytics Dashboard
-- Secure Authentication
-- Transaction Management
-- Financial Insights Visualization
-
-### Tech Stack:
-`React.js` `Node.js` `Express.js` `MongoDB` `Chart.js`
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
 ## 🛡️ Deep Packet Inspection (DPI) System
-> Network Security project for packet monitoring and anomaly detection.
+- Developing a network security system for packet monitoring
+- Implementing traffic analysis and threat detection techniques
+- Working on protocol inspection and anomaly detection
 
-### Features:
-- Packet Capturing
-- Traffic Analysis
-- Threat Detection
-- Protocol Inspection
-- Suspicious Activity Monitoring
-
-### Tech Stack:
-`Python` `Networking` `Cyber Security`
+**Tech Stack:** Python, Networking, Cyber Security
 
 ---
 
 # 🧠 Core Concepts
 
 - Data Structures & Algorithms
-- Object Oriented Programming
+- OOPs
 - DBMS
 - Operating Systems
 - Computer Networks
@@ -125,27 +119,26 @@ A Passionate MERN Stack Developer from India 🇮🇳
 # 🏆 Achievements
 
 - Solved **350+ DSA problems** on LeetCode and coding platforms
-- Strong understanding of:
-  - Arrays
-  - Trees
-  - Graphs
-  - Recursion
-  - Dynamic Programming
+- Strong understanding of Trees, Graphs, DP, Recursion & Problem Solving
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv00031&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv00031&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv00031&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv00031&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv00031&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv00031&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+
+# ✨ Quote
+
+> “Consistency and problem solving beat talent when talent doesn’t work hard.”
