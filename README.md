@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Engineer;Node.js+React.js+MongoDB;DSA+Enthusiast;Passionate+about+System+Design"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Engineer;Node.js+React.js+MongoDB;DSA+Enthusiast"
       alt="Typing SVG"
     />
   </a>
@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Deep Packet Inspection (DPI) System**
-- 🌱 I’m currently learning **System Design, Network Security & Advanced MERN Stack**
+- 🌱 I’m currently learning **Network Security & Advanced MERN Stack**
 - 💬 Ask me about **Node.js, Express.js, React.js, MongoDB, REST APIs, DSA**
 - ⚡ Strong interest in **Backend Engineering & Full Stack Development**
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="[https://leetcode.com/](https://leetcode.com/u/Dhruv_Bharadwaj/)">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -112,13 +112,12 @@
 - Operating Systems
 - Computer Networks
 - REST APIs
-- System Design
 
 ---
 
 # 🏆 Achievements
 
-- Solved **350+ DSA problems** on LeetCode and coding platforms
+- Solved **500+ DSA problems** on LeetCode and coding platforms
 - Strong understanding of Trees, Graphs, DP, Recursion & Problem Solving
 
 ---
